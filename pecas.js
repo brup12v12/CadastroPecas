@@ -6,7 +6,7 @@ let peso = 239;
  console.log("A peça possuí peso inferior a 100, portanto não pode ser cadastrada");
 }
 
-let listaPecas = ["câmbio", "vela", "ignição", "correia", "pastilha", "embreagem","amortecedor", "radiador", "baterria","virabrequim"]
+let listaPecas = ["câmbio", "vela", "ignição", "correia", "pas", "embreagem","amortecedor", "radiador", "baterria","virabrequim"]
 
 //[1,2,3,4,5,6,7,8,9,10]
 //[0,1,2,3,4,5,6,7,8,9] - zero based
@@ -24,7 +24,7 @@ let listaPecas = ["câmbio", "vela", "ignição", "correia", "pastilha", "embrea
   // 73 + 73 = 146
   // "73"+"73" -> "7373"
 
-  let nomePeca = "correia"
+  let nomePeca = listaPecas[4]
 
   if (nomePeca.length > 3) {
       console.log("Nome da peça é válido, pode seguir com o cadastro :)")
