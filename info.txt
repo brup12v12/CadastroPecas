@@ -1,5 +1,5 @@
--peso maior que 100g para ser cadastrada
+ok -peso maior que 100g para ser cadastrada;
 
--lista tem capacidade máxima de 10
+ok -lista tem capacidade máxima de 10, caso ultrapassado o limite, notificar erro;
 
--o item deve ter um nome maior de 3 caracteres,senão mostrar erro;
+ok -o item deve ter um nome maior de 3 caracteres,senão mostrar erro;
