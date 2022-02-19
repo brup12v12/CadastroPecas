@@ -1,0 +1,5 @@
+-peso maior que 100g para ser cadastrada
+
+-lista tem capacidade máxima de 10
+
+-o item deve ter um nome maior de 3 caracteres,senão mostrar erro;
